@@ -1,2 +1,2 @@
 #
-Description
+Description of the current project
