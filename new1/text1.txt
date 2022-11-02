@@ -1,1 +1,1 @@
-here is my first edit in this practice repository
+It was mistakenluy mixed with the text2.txt
